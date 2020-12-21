@@ -1,6 +1,5 @@
 import {
   ApolloClient,
-  HttpLink,
   InMemoryCache,
   NormalizedCacheObject,
 } from '@apollo/client';
